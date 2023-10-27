@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Calculator Of Everything\bin\Debug\Design.exe.config
+C:\Users\lenovo\source\repos\Calculator Of Everything\bin\Debug\Design.exe
+C:\Users\lenovo\source\repos\Calculator Of Everything\bin\Debug\Design.pdb
+C:\Users\lenovo\source\repos\Calculator Of Everything\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\lenovo\source\repos\Calculator Of Everything\obj\Debug\System Converter.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Calculator Of Everything\obj\Debug\System Converter.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\source\repos\Calculator Of Everything\obj\Debug\Design.Calculator.resources
+C:\Users\lenovo\source\repos\Calculator Of Everything\obj\Debug\Design.Properties.Resources.resources
+C:\Users\lenovo\source\repos\Calculator Of Everything\obj\Debug\System Converter.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\Calculator Of Everything\obj\Debug\System Converter.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Calculator Of Everything\obj\Debug\System Converter.csproj.CopyComplete
+C:\Users\lenovo\source\repos\Calculator Of Everything\obj\Debug\Design.exe
+C:\Users\lenovo\source\repos\Calculator Of Everything\obj\Debug\Design.pdb
